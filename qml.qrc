@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/folder.svg</file>
+        <file>images/pause.svg</file>
+        <file>images/play.svg</file>
+        <file>Seeker.qml</file>
+    </qresource>
+</RCC>
